@@ -1,0 +1,6 @@
+.mainBody{
+    min-height: 100vh;
+    width: auto;
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(0,0,0,1) 85%);
+}
